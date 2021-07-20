@@ -16,6 +16,7 @@ I'm Currently pursuing my degree in Computer Science from Farook College, Kerala
 ### About Me:
 - 🔭 I’m currently working on TinkerHub Farook College Campus Tech Team 
 - 🌱 I’m currently learning Flutter 
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 ---
 

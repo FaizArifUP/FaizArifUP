@@ -5,7 +5,9 @@ I'm Currently pursuing my degree in Computer Science from Farook College, Kerala
 ---
 
 ### Skills:
+- Web Dev
 - Python
+- Java
 - HTML
 - CSS
 - JS

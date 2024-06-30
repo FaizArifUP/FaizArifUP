@@ -1,6 +1,8 @@
 # Hi there 👋, I'm Faiz Arif U P.
 ### Farook College, Kerala, India.
-I'm Currently pursuing my post graduation in Masters in Computer Application from TKM College of Engineering, Kerala.
+
+- I completed my post graduation in Masters in Computer Application from TKM College of Engineering, Kollam.
+- I completed my under graduation in BSc Computer Science from Farook College, Kozhikode.
 
 ---
 
@@ -16,9 +18,7 @@ I'm Currently pursuing my post graduation in Masters in Computer Application fro
 ---
 
 ### About Me:
-- 🔭 I’m currently working on TinkerHub Farook College Campus Tech Team 
-- 🌱 I’m currently learning Flutter 
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🔭 I’m currently working in Nest Public School as IT Instructor.
 
 ---
 

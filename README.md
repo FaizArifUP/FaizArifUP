@@ -17,8 +17,9 @@
 
 ---
 
-### About Me:
-- 🔭 I’m currently working in Nest Public School as IT Instructor.
+### Experience:
+- 🔭 Served as an IT Instructor at Nest Public School (Aff. No: 931345) where I develop and deliver a comprehensive IT curriculum.
+- 🔭Additionally, I hold the role of Media Head and manage the school's social media accounts, enhancing our online presence and engagement.
 
 ---
 

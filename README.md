@@ -1,12 +1,23 @@
 # Hi there 👋, I'm Faiz Arif U P.
 ### Farook College, Kerala, India.
 
-- I completed my post graduation in Masters in Computer Application from TKM College of Engineering, Kollam.
-- I completed my under graduation in BSc Computer Science from Farook College, Kozhikode.
+### About:
+
+- 👨🏻‍💻 I am an enthusiastic and dedicated IT professional with a strong academic foundation and practical experience in technology and systems management.
+
+- 🎉 Currently, I am working as a Junior System Engineer at SupportSages Pvt Ltd, where I am honing my technical skills and contributing to impactful projects. Previously, I served as the IT Coordinator at NEST Public School, managing IT infrastructure, teaching IT lessons, and enhancing the school’s digital presence.
+
+- 🌟 In addition, I co-founded TinkerHub FC at Farook College Campus under the TinkerHub Foundation. During my tenure, I played a pivotal role in organizing tech events, fostering community learning, and serving in the Tech Team to build a vibrant technology ecosystem on campus.
+
+- 🎓 I hold a Master of Computer Applications (MCA) from TKM College of Engineering, where I gained a solid technical foundation and hands-on experience in software development and Linux systems.
+
+- 💡 I am passionate about using technologies to solve real-world challenges, building innovative solutions, and continuously learning to stay ahead in the dynamic IT landscape. Let’s connect and explore opportunities to collaborate!
 
 ---
 
 ### Skills:
+- Linux
+- Web Hosting
 - Web Dev
 - Python
 - Java
@@ -14,12 +25,6 @@
 - CSS
 - JS
 - C
-
----
-
-### Experience:
-- 🔭 Served as an IT Instructor at Nest Public School (Aff. No: 931345) where I develop and deliver a comprehensive IT curriculum.
-- 🔭Additionally, I hold the role of Media Head and manage the school's social media accounts, enhancing our online presence and engagement.
 
 ---
 
